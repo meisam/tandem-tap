@@ -1,0 +1,1 @@
+int lbt_connect();
